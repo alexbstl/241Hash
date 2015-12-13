@@ -1,0 +1,57 @@
+########################################################################
+# CSE 241 LAB 2 GRADING RUBRIC
+
+Repo Name (WUSTL key):
+
+Language used:Java
+
+Name of grader:Alan Soetikno
+
+OVERALL GRADE:94/100
+
+///////////////////////////////////////////////////////////////////////
+
+Lateness penalty (if any):
+
+///////////////////////////////////////////////////////////////////////
+
+###### PART 1 (70% total)
+
+
+### HASH FUNCTIONS (20% total)
+
+# HASH FUNCTION IMPLEMENTATION (10%)
+10/10
+
+# SLOT SEQUENCE (10%)
+10/10
+
+### TABLE OPERATIONS (30% total)
+
+# INSERT / DELETE (15%)
+15/15
+# FIND (15%)
+
+15/15
+
+### TEST CASES (12%)
+
+12/12
+
+### WRITEUP (4%)
+4/4
+
+### CODING STYLE (4%)
+
+4/4
+######################################################################
+
+###### PART 2 (30%)
+
+# SHORT-CIRCUITING STRING COMPARISON (10%)
+10/10
+
+# DYNAMIC RESIZING (20%)
+-6
+14/20
+Does not account for a load factor of 1/4.
